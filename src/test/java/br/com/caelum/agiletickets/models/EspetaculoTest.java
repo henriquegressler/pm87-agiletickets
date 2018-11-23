@@ -8,10 +8,8 @@ import java.util.List;
 
 import junit.framework.Assert;
 
-import org.joda.time.Days;
 import org.joda.time.LocalDate;
 import org.joda.time.LocalTime;
-import org.joda.time.Weeks;
 import org.junit.Test;
 
 public class EspetaculoTest {
